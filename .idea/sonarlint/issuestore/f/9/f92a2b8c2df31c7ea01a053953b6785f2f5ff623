@@ -1,5 +1,14 @@
 
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Ì‹8ÍŒ±İà1
-L	java:S106"+Replace this use of System.out by a logger.(ß±µûÿÿÿÿ8ÖŒ±İà1
-G	java:S106"+Replace this use of System.out by a logger.(¤‘Ã™8÷Ã¶İà1
-L	java:S106"+Replace this use of System.out by a logger.(‰óÔ´ıÿÿÿÿ8øÃ¶İà1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Ì‹8²¶¡Şà1
+Y
+java:S1854
+"7Remove this useless assignment to local variable "dia".(çØŸáüÿÿÿÿ8½¶¡Şà1
+b
+java:S1659
+"@Declare "mes" and all following declarations on a separate line.(çØŸáüÿÿÿÿ8à‘ÃŞà1
+L	java:S106"+Replace this use of System.out by a logger.(ß±µûÿÿÿÿ8Á¶¡Şà1
+G	java:S106"+Replace this use of System.out by a logger.(¤‘Ã™8Â¶¡Şà1
+L	java:S106"+Replace this use of System.out by a logger.(‰óÔ´ıÿÿÿÿ8Å¶¡Şà1
+M
+java:S1172"+Remove this unused method parameter "args".(À»Áùÿÿÿÿ8Ç¶¡Şà1
+L	java:S106"+Replace this use of System.out by a logger.(ß±µûÿÿÿÿ8¼í¡Şà1

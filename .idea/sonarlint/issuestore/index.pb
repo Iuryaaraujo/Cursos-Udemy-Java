@@ -13,3 +13,5 @@ n
 YEstrutura-Programa-Java/src/main/java/org/IuryAraujo/variaveis/VariaveisNotasEstudos.java,0\2\02ca50a637963e1de17705a2cf65486bc85be231
 ˆ
 XEstrutura-Programa-Java/src/main/java/org/IuryAraujo/variaveis/VariaveisNotasEstudo.java,f\9\f92a2b8c2df31c7ea01a053953b6785f2f5ff623
+”
+dEstrutura-Programa-Java/src/main/java/org/IuryAraujo/tiposprimitivos/TiposPrimitivosNotasEstudo.java,f\d\fd00e93b60e2518ba4948bea415699b8e016f93e

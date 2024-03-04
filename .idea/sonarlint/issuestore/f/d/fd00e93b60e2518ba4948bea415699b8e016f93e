@@ -1,0 +1,32 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ЎЁЈУшяяяя8ьЧаЮа1
+V
+java:S1854"9Remove this useless assignment to local variable "preco".(Яєј 8€ШаЮа1
+Z
+java:S1854"8Remove this useless assignment to local variable "peso".(єщµЯъяяяя8€ШаЮа1
+g
+java:S1854"ERemove this useless assignment to local variable "numeroMuitoGrande".(С№й›эяяяя8€ШаЮа1
+a
+java:S1854"DRemove this useless assignment to local variable "quatidadeEstoque".(ЎЪ­о8€ШаЮа1
+d
+java:S1854"BRemove this useless assignment to local variable "itensComprados".(ЄњОµьяяяя8‰ШаЮа1
+T
+java:S1854"8Remove this useless assignment to local variable "nota".(ЎџЩx8‰ШаЮа1
+L	java:S106"+Replace this use of System.out by a logger.(їє §щяяяя8ЊШаЮа1
+L	java:S106"+Replace this use of System.out by a logger.(Ч‰ншяяяяя8ЊШаЮа1
+E
+java:S1481")Remove this unused "nota" local variable.(ЎџЩx8ЌШаЮа1
+U
+java:S1481"3Remove this unused "itensComprados" local variable.(ЄњОµьяяяя8ЋШаЮа1
+R
+java:S1481"5Remove this unused "quatidadeEstoque" local variable.(ЎЪ­о8ЏШаЮа1
+X
+java:S1481"6Remove this unused "numeroMuitoGrande" local variable.(С№й›эяяяя8ђШаЮа1
+K
+java:S1481")Remove this unused "peso" local variable.(єщµЯъяяяя8ђШаЮа1
+G
+java:S1481"*Remove this unused "preco" local variable.(Яєј 8‘ШаЮа1
+Q
+java:S1481"/Remove this unused "verdadeiro" local variable.(Љџ¦‰шяяяя8‘ШаЮа1
+L
+java:S1481"*Remove this unused "falso" local variable.(њПЧДщяяяя8‘ШаЮа1

@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b00b115b-9baf-403e-bd10-8c800cd9419e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/tiposprimitivos/TiposPrimitivosNotasEstudo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f92a2b8c2df31c7ea01a053953b6785f2f5ff623" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f92a2b8c2df31c7ea01a053953b6785f2f5ff623" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/casting/CastingNotasEstudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/io/IoNotasEstudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/operadores/OperadorsNotasEstudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ca50a637963e1de17705a2cf65486bc85be231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b457361fefd2ee8f0570c2c979b8871d9fda8cad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/2/02ca50a637963e1de17705a2cf65486bc85be231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/4/b457361fefd2ee8f0570c2c979b8871d9fda8cad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/variaveis/VariaveisNotasEstudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/variaveis/VariaveisNotasEstudo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +57,9 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dF40Tlap4wjhDC5e461RkpkuuP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,10 +70,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CastingNotasEstudo.executor": "Run",
+    "Application.IoNotasEstudo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OlaMundo.executor": "Run",
+    "Application.OperadorsNotasEstudo.executor": "Run",
     "Application.TiposPrimitivosNotasEstudo.executor": "Run",
     "Application.VariaveisNotasEstudo.executor": "Run",
+    "Application.org.IuryAraujo.tiposprimitivos.TiposPrimitivosNotasEstudo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -78,13 +88,13 @@
     "onboarding.tips.debug.path": "C:/Temp/Cursos-Udemy-Java/Estrutura-Programa-Java/src/main/java/org/IuryAraujo/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.org.IuryAraujo.tiposprimitivos.TiposPrimitivosNotasEstudo">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.IuryAraujo.Main" />
+  <component name="RunManager" selected="Application.IoNotasEstudo">
+    <configuration name="CastingNotasEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.IuryAraujo.casting.CastingNotasEstudo" />
       <module name="Estrutura-Programa-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.IuryAraujo.*" />
+          <option name="PATTERN" value="org.IuryAraujo.casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OlaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.IuryAraujo.OlaMundo" />
-      <module name="Cursos-Udemy-Java" />
+    <configuration name="IoNotasEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.IuryAraujo.io.IoNotasEstudo" />
+      <module name="Estrutura-Programa-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.IuryAraujo.*" />
+          <option name="PATTERN" value="org.IuryAraujo.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorsNotasEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.IuryAraujo.operadores.OperadorsNotasEstudo" />
+      <module name="Estrutura-Programa-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.IuryAraujo.operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +134,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tiposprimitivos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariaveisNotasEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.IuryAraujo.variaveis.VariaveisNotasEstudo" />
-      <module name="Estrutura-Programa-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.IuryAraujo.variaveis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IoNotasEstudo" />
+        <item itemvalue="Application.CastingNotasEstudo" />
+        <item itemvalue="Application.OperadorsNotasEstudo" />
         <item itemvalue="Application.org.IuryAraujo.tiposprimitivos.TiposPrimitivosNotasEstudo" />
         <item itemvalue="Application.TiposPrimitivosNotasEstudo" />
-        <item itemvalue="Application.VariaveisNotasEstudo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OlaMundo" />
       </list>
     </recent_temporary>
   </component>

@@ -1,6 +1,4 @@
 
-V
-&src/main/java/org/IuryAraujo/Main.java,b\4\b457361fefd2ee8f0570c2c979b8871d9fda8cad
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 Z
@@ -9,9 +7,13 @@ O
 Estrutura-Programa-Java/pom.xml,7\c\7c899413c02d95299ba1de426acde8735e4063d9
 n
 >Estrutura-Programa-Java/src/main/java/org/IuryAraujo/Main.java,2\e\2e7c446ef0762326a2b06670d7dd79a145c0fec4
-‰
-YEstrutura-Programa-Java/src/main/java/org/IuryAraujo/variaveis/VariaveisNotasEstudos.java,0\2\02ca50a637963e1de17705a2cf65486bc85be231
 ˆ
 XEstrutura-Programa-Java/src/main/java/org/IuryAraujo/variaveis/VariaveisNotasEstudo.java,f\9\f92a2b8c2df31c7ea01a053953b6785f2f5ff623
 ”
 dEstrutura-Programa-Java/src/main/java/org/IuryAraujo/tiposprimitivos/TiposPrimitivosNotasEstudo.java,f\d\fd00e93b60e2518ba4948bea415699b8e016f93e
+‰
+YEstrutura-Programa-Java/src/main/java/org/IuryAraujo/operadores/OperadorsNotasEstudo.java,6\e\6ee716653ba0be8b7936e61fb4d6fab64ebdee44
+„
+TEstrutura-Programa-Java/src/main/java/org/IuryAraujo/casting/CastingNotasEstudo.java,6\d\6deb0dcb43e69ab43cddc9611fd5339fc9673bcc
+z
+JEstrutura-Programa-Java/src/main/java/org/IuryAraujo/io/IoNotasEstudo.java,3\0\30ab9ef43a7230d1bf16759f5b54cafde9ce7097

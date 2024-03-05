@@ -1,0 +1,29 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âµàì8½±¤ıà1
+L	java:S106	"+Replace this use of System.out by a logger.(ÂÛõøÿÿÿÿ8Ü±¤ıà1
+G	java:S106"+Replace this use of System.out by a logger.(Öıèê8Ü±¤ıà1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(Ä°¯İ8İ±¤ıà1
+G	java:S106"+Replace this use of System.out by a logger.(ğŒÆŒ8Ş±¤ıà1
+L	java:S106"+Replace this use of System.out by a logger.(£Ôæ§øÿÿÿÿ8Ş±¤ıà1
+G	java:S106"+Replace this use of System.out by a logger.(Ü’£8ß±¤ıà1
+G	java:S106"+Replace this use of System.out by a logger.(ß”˜ì8à±¤ıà1
+X	java:S125!"<This block of commented-out lines of code should be removed.(©¦÷Â8á±¤ıà1
+L	java:S106%"+Replace this use of System.out by a logger.(÷ı±ßùÿÿÿÿ8â±¤ıà1
+L	java:S106)"+Replace this use of System.out by a logger.(›–Ÿ†øÿÿÿÿ8ã±¤ıà1
+G	java:S106/"+Replace this use of System.out by a logger.(×ğÊ8ä±¤ıà1
+L	java:S1062"+Replace this use of System.out by a logger.(£ÿšöùÿÿÿÿ8å±¤ıà1
+L	java:S1064"+Replace this use of System.out by a logger.(é°åâÿÿÿÿÿ8å±¤ıà1
+m
+java:S17644"KCorrect one of the identical sub-expressions on both sides of operator ">="(é°åâÿÿÿÿÿ8æ±¤ıà1
+G	java:S1065"+Replace this use of System.out by a logger.(Ö²îû8ç±¤ıà1
+h
+java:S17645"KCorrect one of the identical sub-expressions on both sides of operator "<="(Ö²îû8ç±¤ıà1
+L	java:S1067"+Replace this use of System.out by a logger.(ËÃ²Áıÿÿÿÿ8ç±¤ıà1
+m
+java:S17647"KCorrect one of the identical sub-expressions on both sides of operator "=="(ËÃ²Áıÿÿÿÿ8è±¤ıà1
+G	java:S1068"+Replace this use of System.out by a logger.(¹‘ 8é±¤ıà1
+L	java:S106A"+Replace this use of System.out by a logger.(ÖÇøÿÿÿÿ8ê±¤ıà1
+G	java:S106F"+Replace this use of System.out by a logger.(÷±üÕ8ë±¤ıà1
+L	java:S106I"+Replace this use of System.out by a logger.(ÿ“üòşÿÿÿÿ8ì±¤ıà1
+L	java:S106L"+Replace this use of System.out by a logger.(é™Ìãşÿÿÿÿ8í±¤ıà1
